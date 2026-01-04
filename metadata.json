@@ -1,0 +1,5 @@
+{
+  "name": "CityForge AI",
+  "description": "Build and manage a 3D isometric city with AI-generated goals and dynamic events.",
+  "requestFramePermissions": []
+}
