@@ -5,6 +5,21 @@ A stunning 3D isometric city-building simulation game powered by Google's Gemini
 ![CityForge AI](https://img.shields.io/badge/Built%20with-React%20%2B%20Three.js-61DAFB?style=for-the-badge&logo=react)
 ![Gemini AI](https://img.shields.io/badge/Powered%20by-Gemini%20AI-4285F4?style=for-the-badge&logo=google)
 
+---
+
+## 📋 Project Information
+
+- **Project Name:** GenAI_slingshot
+- **Course:** AI for Games
+- **Institution:** Polytechnique Sousse
+- **Professor:** Mme Souha Banneni
+- **Academic Year:** 2025-2026
+- **Authors:**
+  - **Aymen Mabrouk** ([GitHub](https://github.com/AymenMB))
+  - **Mohammed Amine Ben Charrada**
+
+---
+
 ## 🎮 Features
 
 ### 🏗️ City Building
